@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto Treino" src="./fitness-jump.png" width="100%">
+  <img alt="Projeto Treino" src="./Logo.svg"width="100%">
 </p>
 
 ## 🚀 Tecnologias
