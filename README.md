@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto Treino" src="./fitness-jump.png" width="100%">
+  <img alt="Projeto Treino" src="https://github.com/NatalyeCavalieri/Projeto-treino/assets/140080123/347c3499-e2f3-4dfb-b791-1de23862a407)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
